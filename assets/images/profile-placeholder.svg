@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="100%" height="100%" fill="#0d1d2d"/>
+  <g fill="#75f9d4" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700">
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle">Profile</text>
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle">Image</text>
+  </g>
+</svg>
